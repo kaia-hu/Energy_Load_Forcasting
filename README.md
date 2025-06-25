@@ -1,5 +1,5 @@
 # Electricity usage prediction using PG&E load data
-### Team: T07
+## PLEASE LOCATE THE FINAL DELIVERABLE IN SLIDESHOW FORMAT IN THE LANDING PAGE
 ### Members: Serena Xue (qingxue@andrew.cmu.edu); Kaia Hu (kaiqihu@andrew.cmu.edu)
 
 ## Task
